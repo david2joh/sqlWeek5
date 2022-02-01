@@ -1,0 +1,23 @@
+Week 5 Research
+
+What are streams?
+A stream is a pipeline of elements which supports intermediate functional operations
+upon the elements of the stream.  Streams do not modify the pipeline source rather 
+functions operation modifies the elements and passed them down the pipe.
+
+What are Lambda Expressions?
+A lamba expresss is an anonymous inline funtional interface, 
+consisting of a single method only, which recieves parameters , executes
+code upon those parameters and returns a value.
+
+When would a sort be used?
+Sort when one desires to order a collection of objects is some
+defined order.  Order may be natural or user defined.
+
+What is your favorite thing you learned this week?
+How generally useless Optionals are as they are not serializable,
+place false values into and out of JSON, are dangerous in collections
+and limit methods for database access.
+
+https://dev.to/piczmar_0/java-optional-in-class-fields-why-not-40df
+https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
